@@ -1,0 +1,2076 @@
+INFO - 2024-08-22 01:21:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 03:01:26 --> CSRF token verified.
+INFO - 2024-08-22 03:01:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 03:01:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 03:01:27 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Dashboard.php(45): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->index()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 03:01:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 03:01:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 03:01:31 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Dashboard.php(45): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->index()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 03:01:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 03:01:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 03:01:33 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(33): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->index()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 03:01:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 03:01:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 03:27:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-22 03:27:38 --> CodeIgniter\Security\Exceptions\SecurityException: The action you requested is not allowed.
+[Method: POST, Route: pengawasan/store]
+in SYSTEMPATH\Security\Security.php on line 262.
+ 1 SYSTEMPATH\Security\Security.php(262): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH\Filters\CSRF.php(57): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH\Filters\Filters.php(203): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH\Filters\Filters.php(184): CodeIgniter\Filters\Filters->runBefore([...])
+ 5 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\Filters\Filters->run('pengawasan/store', 'before')
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 03:29:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 03:29:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 03:29:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 03:29:44 --> CSRF token verified.
+CRITICAL - 2024-08-22 03:29:44 --> ErrorException: foreach() argument must be of type array|object, null given
+[Method: POST, Route: pengawasan/store]
+in APPPATH\Controllers\Pengawasan.php on line 65.
+ 1 APPPATH\Controllers\Pengawasan.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'C:\\laragon\\www\\evi_v2\\app\\Controllers\\Pengawasan.php', 65)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->store()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 03:31:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 03:31:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 03:31:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 03:31:16 --> CSRF token verified.
+CRITICAL - 2024-08-22 03:31:16 --> ErrorException: foreach() argument must be of type array|object, null given
+[Method: POST, Route: pengawasan/store]
+in APPPATH\Controllers\Pengawasan.php on line 65.
+ 1 APPPATH\Controllers\Pengawasan.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'C:\\laragon\\www\\evi_v2\\app\\Controllers\\Pengawasan.php', 65)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->store()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 03:34:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 03:34:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 03:36:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 03:43:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-22 03:43:16 --> ErrorException: Undefined variable $aspek
+[Method: GET, Route: pengawasan/tambah]
+in APPPATH\Views\pengawasan\add.php on line 47.
+ 1 APPPATH\Views\pengawasan\add.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $aspek', 'C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php', 47)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengawasan/add', [], true)
+ 5 APPPATH\Controllers\Pengawasan.php(45): view('pengawasan/add', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->tambah()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 03:43:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-22 03:43:48 --> ErrorException: Undefined array key "nama_aspek"
+[Method: GET, Route: pengawasan/tambah]
+in APPPATH\Views\pengawasan\add.php on line 49.
+ 1 APPPATH\Views\pengawasan\add.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama_aspek"', 'C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php', 49)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengawasan/add', [], true)
+ 5 APPPATH\Controllers\Pengawasan.php(45): view('pengawasan/add', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->tambah()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 03:43:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-22 03:43:49 --> ErrorException: Undefined array key "nama_aspek"
+[Method: GET, Route: pengawasan/tambah]
+in APPPATH\Views\pengawasan\add.php on line 49.
+ 1 APPPATH\Views\pengawasan\add.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama_aspek"', 'C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php', 49)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengawasan/add', [], true)
+ 5 APPPATH\Controllers\Pengawasan.php(45): view('pengawasan/add', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->tambah()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 03:44:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-22 03:44:18 --> ErrorException: Undefined array key "nilai_standar"
+[Method: GET, Route: pengawasan/tambah]
+in APPPATH\Views\pengawasan\add.php on line 53.
+ 1 APPPATH\Views\pengawasan\add.php(53): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nilai_standar"', 'C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php', 53)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengawasan/add', [], true)
+ 5 APPPATH\Controllers\Pengawasan.php(45): view('pengawasan/add', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->tambah()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 03:44:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 03:46:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 03:47:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 03:47:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 03:54:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 03:55:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 03:56:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 03:57:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 03:58:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 03:59:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 03:59:11 --> CSRF token verified.
+CRITICAL - 2024-08-22 03:59:11 --> ErrorException: foreach() argument must be of type array|object, null given
+[Method: POST, Route: pengawasan/store]
+in APPPATH\Controllers\Pengawasan.php on line 65.
+ 1 APPPATH\Controllers\Pengawasan.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'C:\\laragon\\www\\evi_v2\\app\\Controllers\\Pengawasan.php', 65)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->store()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 04:04:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 04:04:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 04:07:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 04:07:19 --> CSRF token verified.
+CRITICAL - 2024-08-22 04:07:19 --> CodeIgniter\Database\Exceptions\DataException: Allowed fields must be specified for model: "App\Models\MKmes2"
+[Method: POST, Route: pengawasan/store]
+in SYSTEMPATH\Model.php on line 824.
+ 1 SYSTEMPATH\Model.php(824): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\MKmes2')
+ 2 SYSTEMPATH\BaseModel.php(821): CodeIgniter\Model->doProtectFieldsForInsert([...])
+ 3 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\Pengawasan.php(55): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->store()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 04:14:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 04:14:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 04:15:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 04:18:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 04:18:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 04:18:31 --> CSRF token verified.
+CRITICAL - 2024-08-22 04:18:31 --> ErrorException: Undefined array key "nilai_standar"
+[Method: POST, Route: pengawasan/store]
+in APPPATH\Controllers\Pengawasan.php on line 63.
+ 1 APPPATH\Controllers\Pengawasan.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nilai_standar"', 'C:\\laragon\\www\\evi_v2\\app\\Controllers\\Pengawasan.php', 63)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->store()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 04:19:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 04:19:32 --> CSRF token verified.
+CRITICAL - 2024-08-22 04:19:32 --> DivisionByZeroError: Division by zero
+[Method: POST, Route: pengawasan/store]
+in APPPATH\Controllers\Pengawasan.php on line 63.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->store()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 04:21:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 04:21:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 04:21:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 04:21:44 --> CSRF token verified.
+ERROR - 2024-08-22 04:21:44 --> mysqli_sql_exception: Column 'nilai' cannot be null in C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `ev...', 0)
+#1 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ev...')
+#2 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ev...')
+#3 C:\laragon\www\evi_v2\system\Database\BaseBuilder.php(2332): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ev...', Array, false)
+#4 C:\laragon\www\evi_v2\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\laragon\www\evi_v2\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\laragon\www\evi_v2\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\laragon\www\evi_v2\app\Controllers\Pengawasan.php(65): CodeIgniter\Model->insert(Array)
+#8 C:\laragon\www\evi_v2\system\CodeIgniter.php(933): App\Controllers\Pengawasan->store()
+#9 C:\laragon\www\evi_v2\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+#10 C:\laragon\www\evi_v2\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\evi_v2\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\laragon\www\evi_v2\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\laragon\www\evi_v2\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-08-22 04:21:44 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'nilai' cannot be null
+[Method: POST, Route: pengawasan/store]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2332): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ev_nilai_aski` (`id_es2`, `nilai`, `nilai_sub_aspek`) VALUES (:id_es2:, :nilai:, :nilai_sub_aspek:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Pengawasan.php(65): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->store()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-22 04:21:44 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'nilai' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ev_nilai_aski` (`id_es2`, `nilai`, `nilai_sub_aspek`) VALUES (\'3\', NULL, NULL)')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ev_nilai_aski` (`id_es2`, `nilai`, `nilai_sub_aspek`) VALUES (\'3\', NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2332): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ev_nilai_aski` (`id_es2`, `nilai`, `nilai_sub_aspek`) VALUES (:id_es2:, :nilai:, :nilai_sub_aspek:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\Pengawasan.php(65): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->store()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-22 04:21:44 --> [Caused by] mysqli_sql_exception: Column 'nilai' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `ev_nilai_aski` (`id_es2`, `nilai`, `nilai_sub_aspek`) VALUES (\'3\', NULL, NULL)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ev_nilai_aski` (`id_es2`, `nilai`, `nilai_sub_aspek`) VALUES (\'3\', NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ev_nilai_aski` (`id_es2`, `nilai`, `nilai_sub_aspek`) VALUES (\'3\', NULL, NULL)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2332): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ev_nilai_aski` (`id_es2`, `nilai`, `nilai_sub_aspek`) VALUES (:id_es2:, :nilai:, :nilai_sub_aspek:)', [...], false)
+ 5 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Pengawasan.php(65): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->store()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 04:22:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 04:22:20 --> CSRF token verified.
+ERROR - 2024-08-22 04:22:20 --> mysqli_sql_exception: Column 'nilai_sub_aspek' cannot be null in C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `ev...', 0)
+#1 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ev...')
+#2 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ev...')
+#3 C:\laragon\www\evi_v2\system\Database\BaseBuilder.php(2332): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ev...', Array, false)
+#4 C:\laragon\www\evi_v2\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\laragon\www\evi_v2\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\laragon\www\evi_v2\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\laragon\www\evi_v2\app\Controllers\Pengawasan.php(65): CodeIgniter\Model->insert(Array)
+#8 C:\laragon\www\evi_v2\system\CodeIgniter.php(933): App\Controllers\Pengawasan->store()
+#9 C:\laragon\www\evi_v2\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+#10 C:\laragon\www\evi_v2\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\evi_v2\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\laragon\www\evi_v2\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\laragon\www\evi_v2\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-08-22 04:22:20 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'nilai_sub_aspek' cannot be null
+[Method: POST, Route: pengawasan/store]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2332): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ev_nilai_aski` (`id_es2`, `nilai`, `nilai_sub_aspek`) VALUES (:id_es2:, :nilai:, :nilai_sub_aspek:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Pengawasan.php(65): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->store()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-22 04:22:20 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'nilai_sub_aspek' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ev_nilai_aski` (`id_es2`, `nilai`, `nilai_sub_aspek`) VALUES (\'3\', NULL, NULL)')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ev_nilai_aski` (`id_es2`, `nilai`, `nilai_sub_aspek`) VALUES (\'3\', NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2332): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ev_nilai_aski` (`id_es2`, `nilai`, `nilai_sub_aspek`) VALUES (:id_es2:, :nilai:, :nilai_sub_aspek:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\Pengawasan.php(65): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->store()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-22 04:22:20 --> [Caused by] mysqli_sql_exception: Column 'nilai_sub_aspek' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `ev_nilai_aski` (`id_es2`, `nilai`, `nilai_sub_aspek`) VALUES (\'3\', NULL, NULL)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ev_nilai_aski` (`id_es2`, `nilai`, `nilai_sub_aspek`) VALUES (\'3\', NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ev_nilai_aski` (`id_es2`, `nilai`, `nilai_sub_aspek`) VALUES (\'3\', NULL, NULL)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2332): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ev_nilai_aski` (`id_es2`, `nilai`, `nilai_sub_aspek`) VALUES (:id_es2:, :nilai:, :nilai_sub_aspek:)', [...], false)
+ 5 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Pengawasan.php(65): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->store()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 04:22:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 04:22:46 --> CSRF token verified.
+INFO - 2024-08-22 04:22:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 04:24:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 04:24:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 04:24:21 --> CSRF token verified.
+INFO - 2024-08-22 04:26:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-22 04:26:57 --> ErrorException: Undefined array key "sub_kategori"
+[Method: GET, Route: pengawasan/tambah]
+in APPPATH\Views\pengawasan\add.php on line 56.
+ 1 APPPATH\Views\pengawasan\add.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "sub_kategori"', 'C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php', 56)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengawasan/add', [], true)
+ 5 APPPATH\Controllers\Pengawasan.php(45): view('pengawasan/add', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->tambah()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 04:27:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 04:27:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 04:27:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 04:28:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 04:28:16 --> CSRF token verified.
+INFO - 2024-08-22 04:28:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 04:32:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 04:32:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 04:32:54 --> CSRF token verified.
+ERROR - 2024-08-22 04:32:54 --> mysqli_sql_exception: Column 'nilai' cannot be null in C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `ev...', 0)
+#1 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ev...')
+#2 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ev...')
+#3 C:\laragon\www\evi_v2\system\Database\BaseBuilder.php(2332): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ev...', Array, false)
+#4 C:\laragon\www\evi_v2\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\laragon\www\evi_v2\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\laragon\www\evi_v2\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\laragon\www\evi_v2\app\Controllers\Pengawasan.php(65): CodeIgniter\Model->insert(Array)
+#8 C:\laragon\www\evi_v2\system\CodeIgniter.php(933): App\Controllers\Pengawasan->store()
+#9 C:\laragon\www\evi_v2\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+#10 C:\laragon\www\evi_v2\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\evi_v2\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\laragon\www\evi_v2\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\laragon\www\evi_v2\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-08-22 04:32:54 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'nilai' cannot be null
+[Method: POST, Route: pengawasan/store]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2332): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ev_nilai_aski` (`id_es2`, `id_sub_aspek`, `nilai`, `nilai_sub_aspek`) VALUES (:id_es2:, :id_sub_aspek:, :nilai:, :nilai_sub_aspek:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Pengawasan.php(65): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->store()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-22 04:32:54 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'nilai' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ev_nilai_aski` (`id_es2`, `id_sub_aspek`, `nilai`, `nilai_sub_aspek`) VALUES (\'3\', \'1\', NULL, NULL)')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ev_nilai_aski` (`id_es2`, `id_sub_aspek`, `nilai`, `nilai_sub_aspek`) VALUES (\'3\', \'1\', NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2332): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ev_nilai_aski` (`id_es2`, `id_sub_aspek`, `nilai`, `nilai_sub_aspek`) VALUES (:id_es2:, :id_sub_aspek:, :nilai:, :nilai_sub_aspek:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\Pengawasan.php(65): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->store()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-22 04:32:54 --> [Caused by] mysqli_sql_exception: Column 'nilai' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `ev_nilai_aski` (`id_es2`, `id_sub_aspek`, `nilai`, `nilai_sub_aspek`) VALUES (\'3\', \'1\', NULL, NULL)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ev_nilai_aski` (`id_es2`, `id_sub_aspek`, `nilai`, `nilai_sub_aspek`) VALUES (\'3\', \'1\', NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ev_nilai_aski` (`id_es2`, `id_sub_aspek`, `nilai`, `nilai_sub_aspek`) VALUES (\'3\', \'1\', NULL, NULL)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2332): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ev_nilai_aski` (`id_es2`, `id_sub_aspek`, `nilai`, `nilai_sub_aspek`) VALUES (:id_es2:, :id_sub_aspek:, :nilai:, :nilai_sub_aspek:)', [...], false)
+ 5 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Pengawasan.php(65): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->store()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 04:35:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 04:35:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 04:35:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 04:36:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 04:36:06 --> CSRF token verified.
+INFO - 2024-08-22 04:36:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 04:38:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 04:38:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 04:38:12 --> CSRF token verified.
+INFO - 2024-08-22 04:38:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 04:49:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-22 04:49:00 --> ErrorException: Undefined array key "nama_unit"
+[Method: GET, Route: pengawasan/tambah]
+in APPPATH\Views\pengawasan\add.php on line 20.
+ 1 APPPATH\Views\pengawasan\add.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama_unit"', 'C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php', 20)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengawasan/add', [], true)
+ 5 APPPATH\Controllers\Pengawasan.php(45): view('pengawasan/add', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->tambah()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 04:49:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-22 04:49:11 --> ErrorException: Undefined array key "nilai_standar"
+[Method: GET, Route: pengawasan/tambah]
+in APPPATH\Views\pengawasan\add.php on line 42.
+ 1 APPPATH\Views\pengawasan\add.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nilai_standar"', 'C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php', 42)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengawasan/add', [], true)
+ 5 APPPATH\Controllers\Pengawasan.php(45): view('pengawasan/add', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->tambah()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 04:50:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 04:54:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 04:55:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 04:55:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 04:56:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 04:56:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 04:57:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-22 04:57:08 --> CodeIgniter\Security\Exceptions\SecurityException: The action you requested is not allowed.
+[Method: POST, Route: pengawasan/store]
+in SYSTEMPATH\Security\Security.php on line 262.
+ 1 SYSTEMPATH\Security\Security.php(262): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH\Filters\CSRF.php(57): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH\Filters\Filters.php(203): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH\Filters\Filters.php(184): CodeIgniter\Filters\Filters->runBefore([...])
+ 5 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\Filters\Filters->run('pengawasan/store', 'before')
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 04:58:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-22 04:58:36 --> CodeIgniter\Security\Exceptions\SecurityException: The action you requested is not allowed.
+[Method: POST, Route: pengawasan/store]
+in SYSTEMPATH\Security\Security.php on line 262.
+ 1 SYSTEMPATH\Security\Security.php(262): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH\Filters\CSRF.php(57): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH\Filters\Filters.php(203): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH\Filters\Filters.php(184): CodeIgniter\Filters\Filters->runBefore([...])
+ 5 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\Filters\Filters->run('pengawasan/store', 'before')
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 04:58:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 05:00:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 05:00:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 05:00:39 --> CSRF token verified.
+CRITICAL - 2024-08-22 05:00:39 --> ErrorException: Undefined array key "nilai_standar"
+[Method: POST, Route: pengawasan/store]
+in APPPATH\Controllers\Pengawasan.php on line 58.
+ 1 APPPATH\Controllers\Pengawasan.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nilai_standar"', 'C:\\laragon\\www\\evi_v2\\app\\Controllers\\Pengawasan.php', 58)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->store()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 05:02:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 05:02:32 --> CSRF token verified.
+CRITICAL - 2024-08-22 05:02:32 --> DivisionByZeroError: Division by zero
+[Method: POST, Route: pengawasan/store]
+in APPPATH\Controllers\Pengawasan.php on line 61.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->store()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 07:19:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 07:24:15 --> CSRF token verified.
+INFO - 2024-08-22 07:24:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 07:24:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 07:24:15 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Dashboard.php(45): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->index()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 07:24:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 07:24:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 07:24:20 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(34): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->index()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 07:24:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 07:24:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 07:24:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 07:24:39 --> CSRF token verified.
+INFO - 2024-08-22 07:24:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 07:31:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 07:31:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 07:31:56 --> CSRF token verified.
+ERROR - 2024-08-22 07:31:56 --> mysqli_sql_exception: Column 'id_es2' cannot be null in C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `ev...', 0)
+#1 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ev...')
+#2 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ev...')
+#3 C:\laragon\www\evi_v2\system\Database\BaseBuilder.php(2332): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ev...', Array, false)
+#4 C:\laragon\www\evi_v2\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\laragon\www\evi_v2\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\laragon\www\evi_v2\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\laragon\www\evi_v2\app\Controllers\Pengawasan.php(75): CodeIgniter\Model->insert(Array)
+#8 C:\laragon\www\evi_v2\system\CodeIgniter.php(933): App\Controllers\Pengawasan->store()
+#9 C:\laragon\www\evi_v2\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+#10 C:\laragon\www\evi_v2\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\evi_v2\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\laragon\www\evi_v2\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\laragon\www\evi_v2\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-08-22 07:31:56 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'id_es2' cannot be null
+[Method: POST, Route: pengawasan/store]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2332): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ev_nilai_aski` (`id_user`, `id_es2`, `nilai`, `nilai_sub_aspek`) VALUES (:id_user:, :id_es2:, :nilai:, :nilai_sub_aspek:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Pengawasan.php(75): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->store()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-22 07:31:56 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'id_es2' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ev_nilai_aski` (`id_user`, `id_es2`, `nilai`, `nilai_sub_aspek`) VALUES (\'38\', NULL, \'0\', 0)')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ev_nilai_aski` (`id_user`, `id_es2`, `nilai`, `nilai_sub_aspek`) VALUES (\'38\', NULL, \'0\', 0)')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2332): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ev_nilai_aski` (`id_user`, `id_es2`, `nilai`, `nilai_sub_aspek`) VALUES (:id_user:, :id_es2:, :nilai:, :nilai_sub_aspek:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\Pengawasan.php(75): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->store()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-22 07:31:56 --> [Caused by] mysqli_sql_exception: Column 'id_es2' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `ev_nilai_aski` (`id_user`, `id_es2`, `nilai`, `nilai_sub_aspek`) VALUES (\'38\', NULL, \'0\', 0)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ev_nilai_aski` (`id_user`, `id_es2`, `nilai`, `nilai_sub_aspek`) VALUES (\'38\', NULL, \'0\', 0)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ev_nilai_aski` (`id_user`, `id_es2`, `nilai`, `nilai_sub_aspek`) VALUES (\'38\', NULL, \'0\', 0)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2332): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ev_nilai_aski` (`id_user`, `id_es2`, `nilai`, `nilai_sub_aspek`) VALUES (:id_user:, :id_es2:, :nilai:, :nilai_sub_aspek:)', [...], false)
+ 5 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Pengawasan.php(75): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->store()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 07:32:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 07:33:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 07:33:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 07:33:58 --> CSRF token verified.
+INFO - 2024-08-22 07:33:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 07:37:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 07:42:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 07:42:51 --> CSRF token verified.
+INFO - 2024-08-22 07:42:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 07:50:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 07:59:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:00:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:00:12 --> CSRF token verified.
+ERROR - 2024-08-22 08:00:12 --> mysqli_sql_exception: Unknown column 'nilai_aski' in 'field list' in C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `ev...', 0)
+#1 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ev...')
+#2 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ev...')
+#3 C:\laragon\www\evi_v2\system\Database\BaseBuilder.php(2332): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ev...', Array, false)
+#4 C:\laragon\www\evi_v2\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\laragon\www\evi_v2\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\laragon\www\evi_v2\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\laragon\www\evi_v2\app\Controllers\Pengawasan.php(88): CodeIgniter\Model->insert(Array)
+#8 C:\laragon\www\evi_v2\system\CodeIgniter.php(933): App\Controllers\Pengawasan->store()
+#9 C:\laragon\www\evi_v2\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+#10 C:\laragon\www\evi_v2\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\evi_v2\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\laragon\www\evi_v2\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\laragon\www\evi_v2\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-08-22 08:00:12 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'nilai_aski' in 'field list'
+[Method: POST, Route: pengawasan/store]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2332): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ev_nilai_aski_up` (`id_es2`, `tahun`, `nilai_aski`) VALUES (:id_es2:, :tahun:, :nilai_aski:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Pengawasan.php(88): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->store()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-22 08:00:12 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'nilai_aski' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ev_nilai_aski_up` (`id_es2`, `tahun`, `nilai_aski`) VALUES (\'24\', \'2024\', 531.5780952381)')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ev_nilai_aski_up` (`id_es2`, `tahun`, `nilai_aski`) VALUES (\'24\', \'2024\', 531.5780952381)')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2332): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ev_nilai_aski_up` (`id_es2`, `tahun`, `nilai_aski`) VALUES (:id_es2:, :tahun:, :nilai_aski:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\Pengawasan.php(88): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->store()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-22 08:00:12 --> [Caused by] mysqli_sql_exception: Unknown column 'nilai_aski' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `ev_nilai_aski_up` (`id_es2`, `tahun`, `nilai_aski`) VALUES (\'24\', \'2024\', 531.5780952381)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ev_nilai_aski_up` (`id_es2`, `tahun`, `nilai_aski`) VALUES (\'24\', \'2024\', 531.5780952381)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ev_nilai_aski_up` (`id_es2`, `tahun`, `nilai_aski`) VALUES (\'24\', \'2024\', 531.5780952381)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2332): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ev_nilai_aski_up` (`id_es2`, `tahun`, `nilai_aski`) VALUES (:id_es2:, :tahun:, :nilai_aski:)', [...], false)
+ 5 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Pengawasan.php(88): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->store()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 08:00:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:00:30 --> CSRF token verified.
+INFO - 2024-08-22 08:00:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:03:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:03:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:03:50 --> CSRF token verified.
+INFO - 2024-08-22 08:03:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:07:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:08:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:09:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:09:13 --> CSRF token verified.
+INFO - 2024-08-22 08:09:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:15:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:18:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:19:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:19:08 --> CSRF token verified.
+ERROR - 2024-08-22 08:19:08 --> mysqli_sql_exception: Unknown column 'hasil_akhir' in 'field list' in C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT SUM(`has...', 0)
+#1 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT SUM(`has...')
+#2 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT SUM(`has...')
+#3 C:\laragon\www\evi_v2\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`has...', Array, false)
+#4 C:\laragon\www\evi_v2\system\Model.php(930): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\evi_v2\app\Controllers\Pengawasan.php(80): CodeIgniter\Model->__call('get', Array)
+#6 C:\laragon\www\evi_v2\system\CodeIgniter.php(933): App\Controllers\Pengawasan->store()
+#7 C:\laragon\www\evi_v2\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+#8 C:\laragon\www\evi_v2\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\laragon\www\evi_v2\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\laragon\www\evi_v2\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\laragon\www\evi_v2\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-08-22 08:19:08 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'hasil_akhir' in 'field list'
+[Method: POST, Route: pengawasan/store]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`hasil_akhir`) AS `hasil_akhir`
+FROM `ev_nilai_aski`
+WHERE `id_unit` = :id_unit:', [...], false)
+ 2 SYSTEMPATH\Model.php(930): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Pengawasan.php(80): CodeIgniter\Model->__call('get', [])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->store()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-22 08:19:08 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'hasil_akhir' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT SUM(`hasil_akhir`) AS `hasil_akhir`
+FROM `ev_nilai_aski`
+WHERE `id_unit` = \'5\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT SUM(`hasil_akhir`) AS `hasil_akhir`
+FROM `ev_nilai_aski`
+WHERE `id_unit` = \'5\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`hasil_akhir`) AS `hasil_akhir`
+FROM `ev_nilai_aski`
+WHERE `id_unit` = :id_unit:', [...], false)
+ 4 SYSTEMPATH\Model.php(930): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Pengawasan.php(80): CodeIgniter\Model->__call('get', [])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->store()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-22 08:19:08 --> [Caused by] mysqli_sql_exception: Unknown column 'hasil_akhir' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT SUM(`hasil_akhir`) AS `hasil_akhir`
+FROM `ev_nilai_aski`
+WHERE `id_unit` = \'5\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT SUM(`hasil_akhir`) AS `hasil_akhir`
+FROM `ev_nilai_aski`
+WHERE `id_unit` = \'5\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT SUM(`hasil_akhir`) AS `hasil_akhir`
+FROM `ev_nilai_aski`
+WHERE `id_unit` = \'5\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`hasil_akhir`) AS `hasil_akhir`
+FROM `ev_nilai_aski`
+WHERE `id_unit` = :id_unit:', [...], false)
+ 5 SYSTEMPATH\Model.php(930): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Pengawasan.php(80): CodeIgniter\Model->__call('get', [])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->store()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 08:19:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:19:24 --> CSRF token verified.
+ERROR - 2024-08-22 08:19:24 --> mysqli_sql_exception: Unknown column 'id_unit' in 'where clause' in C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT SUM(`nil...', 0)
+#1 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT SUM(`nil...')
+#2 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT SUM(`nil...')
+#3 C:\laragon\www\evi_v2\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`nil...', Array, false)
+#4 C:\laragon\www\evi_v2\system\Model.php(930): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\evi_v2\app\Controllers\Pengawasan.php(80): CodeIgniter\Model->__call('get', Array)
+#6 C:\laragon\www\evi_v2\system\CodeIgniter.php(933): App\Controllers\Pengawasan->store()
+#7 C:\laragon\www\evi_v2\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+#8 C:\laragon\www\evi_v2\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\laragon\www\evi_v2\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\laragon\www\evi_v2\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\laragon\www\evi_v2\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-08-22 08:19:24 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id_unit' in 'where clause'
+[Method: POST, Route: pengawasan/store]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`nilai_sub_aspek`) AS `nilai_sub_aspek`
+FROM `ev_nilai_aski`
+WHERE `id_unit` = :id_unit:', [...], false)
+ 2 SYSTEMPATH\Model.php(930): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Pengawasan.php(80): CodeIgniter\Model->__call('get', [])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->store()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-22 08:19:24 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id_unit' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT SUM(`nilai_sub_aspek`) AS `nilai_sub_aspek`
+FROM `ev_nilai_aski`
+WHERE `id_unit` = \'5\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT SUM(`nilai_sub_aspek`) AS `nilai_sub_aspek`
+FROM `ev_nilai_aski`
+WHERE `id_unit` = \'5\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`nilai_sub_aspek`) AS `nilai_sub_aspek`
+FROM `ev_nilai_aski`
+WHERE `id_unit` = :id_unit:', [...], false)
+ 4 SYSTEMPATH\Model.php(930): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Pengawasan.php(80): CodeIgniter\Model->__call('get', [])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->store()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-22 08:19:24 --> [Caused by] mysqli_sql_exception: Unknown column 'id_unit' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT SUM(`nilai_sub_aspek`) AS `nilai_sub_aspek`
+FROM `ev_nilai_aski`
+WHERE `id_unit` = \'5\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT SUM(`nilai_sub_aspek`) AS `nilai_sub_aspek`
+FROM `ev_nilai_aski`
+WHERE `id_unit` = \'5\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT SUM(`nilai_sub_aspek`) AS `nilai_sub_aspek`
+FROM `ev_nilai_aski`
+WHERE `id_unit` = \'5\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`nilai_sub_aspek`) AS `nilai_sub_aspek`
+FROM `ev_nilai_aski`
+WHERE `id_unit` = :id_unit:', [...], false)
+ 5 SYSTEMPATH\Model.php(930): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Pengawasan.php(80): CodeIgniter\Model->__call('get', [])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->store()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 08:19:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:19:33 --> CSRF token verified.
+CRITICAL - 2024-08-22 08:19:33 --> ErrorException: Undefined property: stdClass::$hasil_akhir
+[Method: POST, Route: pengawasan/store]
+in APPPATH\Controllers\Pengawasan.php on line 80.
+ 1 APPPATH\Controllers\Pengawasan.php(80): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$hasil_akhir', 'C:\\laragon\\www\\evi_v2\\app\\Controllers\\Pengawasan.php', 80)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->store()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 08:22:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:22:36 --> CSRF token verified.
+ERROR - 2024-08-22 08:22:36 --> mysqli_sql_exception: Unknown column 'id_unit' in 'where clause' in C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT SUM(`nil...', 0)
+#1 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT SUM(`nil...')
+#2 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT SUM(`nil...')
+#3 C:\laragon\www\evi_v2\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`nil...', Array, false)
+#4 C:\laragon\www\evi_v2\system\Model.php(930): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\evi_v2\app\Controllers\Pengawasan.php(83): CodeIgniter\Model->__call('get', Array)
+#6 C:\laragon\www\evi_v2\system\CodeIgniter.php(933): App\Controllers\Pengawasan->store()
+#7 C:\laragon\www\evi_v2\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+#8 C:\laragon\www\evi_v2\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\laragon\www\evi_v2\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\laragon\www\evi_v2\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\laragon\www\evi_v2\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-08-22 08:22:36 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id_unit' in 'where clause'
+[Method: POST, Route: pengawasan/store]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`nilai_sub_aspek`) AS `total_akhir`
+FROM `ev_nilai_aski`
+WHERE `id_unit` = :id_unit:', [...], false)
+ 2 SYSTEMPATH\Model.php(930): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Pengawasan.php(83): CodeIgniter\Model->__call('get', [])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->store()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-22 08:22:36 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id_unit' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT SUM(`nilai_sub_aspek`) AS `total_akhir`
+FROM `ev_nilai_aski`
+WHERE `id_unit` = \'5\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT SUM(`nilai_sub_aspek`) AS `total_akhir`
+FROM `ev_nilai_aski`
+WHERE `id_unit` = \'5\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`nilai_sub_aspek`) AS `total_akhir`
+FROM `ev_nilai_aski`
+WHERE `id_unit` = :id_unit:', [...], false)
+ 4 SYSTEMPATH\Model.php(930): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Pengawasan.php(83): CodeIgniter\Model->__call('get', [])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->store()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-22 08:22:36 --> [Caused by] mysqli_sql_exception: Unknown column 'id_unit' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT SUM(`nilai_sub_aspek`) AS `total_akhir`
+FROM `ev_nilai_aski`
+WHERE `id_unit` = \'5\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT SUM(`nilai_sub_aspek`) AS `total_akhir`
+FROM `ev_nilai_aski`
+WHERE `id_unit` = \'5\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT SUM(`nilai_sub_aspek`) AS `total_akhir`
+FROM `ev_nilai_aski`
+WHERE `id_unit` = \'5\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`nilai_sub_aspek`) AS `total_akhir`
+FROM `ev_nilai_aski`
+WHERE `id_unit` = :id_unit:', [...], false)
+ 5 SYSTEMPATH\Model.php(930): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Pengawasan.php(83): CodeIgniter\Model->__call('get', [])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->store()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 08:22:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:22:43 --> CSRF token verified.
+INFO - 2024-08-22 08:22:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:23:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:25:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:25:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:25:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:25:53 --> CSRF token verified.
+INFO - 2024-08-22 08:25:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:26:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:26:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:26:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 08:26:37 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(35): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->index()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 08:26:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:31:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:32:02 --> CSRF token verified.
+INFO - 2024-08-22 08:32:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:32:12 --> CSRF token verified.
+INFO - 2024-08-22 08:32:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:32:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 08:32:13 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Dashboard.php(79): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 08:32:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:32:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 08:32:21 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Berkas.php(85): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Berkas->index()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Berkas))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 08:32:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:32:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:33:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 08:33:16 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Berkas.php(85): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Berkas->index()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Berkas))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 08:33:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:33:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:33:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 08:33:18 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(47): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-22 08:33:18 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pengawasan/admin.php"
+[Method: GET, Route: pengawasan/admin]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pengawasan/admin.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengawasan/admin', [], true)
+ 3 APPPATH\Views\layout\content.php(4): view('pengawasan/admin')
+ 4 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\content.php')
+ 5 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/content', [], true)
+ 7 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+ 8 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 9 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+10 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+11 APPPATH\Controllers\Pengawasan.php(47): view('layout/wrapper', [...])
+12 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+13 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+14 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+16 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+17 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 08:33:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 08:33:40 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(47): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 08:33:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:34:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 08:34:17 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(47): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 08:34:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:35:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 08:35:28 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(47): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 08:35:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:36:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 08:36:51 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(47): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 08:36:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:38:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 08:38:49 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(50): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 08:38:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:39:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 08:39:09 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(50): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 08:39:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:41:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 08:41:48 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(50): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 08:41:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:42:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 08:42:47 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(50): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-22 08:42:47 --> ErrorException: Undefined array key "nama_es2"
+[Method: GET, Route: pengawasan/admin]
+in APPPATH\Views\pengawasan\admin.php on line 23.
+ 1 APPPATH\Views\pengawasan\admin.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama_es2"', 'C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\admin.php', 23)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\admin.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengawasan/admin', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('pengawasan/admin')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Pengawasan.php(50): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+15 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+16 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+18 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+19 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 08:43:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-08-22 08:43:08 --> mysqli_sql_exception: Unknown column 'ev_nilai_aski.id_es2' in 'on clause' in C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `ev_nila...', 0)
+#1 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `ev_nila...')
+#2 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `ev_nila...')
+#3 C:\laragon\www\evi_v2\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `ev_nila...', Array, false)
+#4 C:\laragon\www\evi_v2\system\Model.php(930): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\evi_v2\app\Models\MNilaiAski.php(21): CodeIgniter\Model->__call('get', Array)
+#6 C:\laragon\www\evi_v2\app\Controllers\Pengawasan.php(48): App\Models\MNilaiAski->joinData()
+#7 C:\laragon\www\evi_v2\system\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+#8 C:\laragon\www\evi_v2\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+#9 C:\laragon\www\evi_v2\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\evi_v2\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\laragon\www\evi_v2\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\laragon\www\evi_v2\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+CRITICAL - 2024-08-22 08:43:08 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'ev_nilai_aski.id_es2' in 'on clause'
+[Method: GET, Route: pengawasan/admin]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `ev_nilai_aski_up`.`id` as `id`, `nama_es2`, `nilai_akhir`
+FROM `ev_nilai_aski_up`
+LEFT JOIN `km_es2` ON `ev_nilai_aski`.`id_es2`=`km_es2`.`id`
+JOIN `ev_nilai_aski` ON `ev_nilai_aski_up`.`id_user`=`ev_nilai_aski`.`id_user`', [], false)
+ 2 SYSTEMPATH\Model.php(930): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Models\MNilaiAski.php(21): CodeIgniter\Model->__call('get', [])
+ 4 APPPATH\Controllers\Pengawasan.php(48): App\Models\MNilaiAski->joinData()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-22 08:43:08 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'ev_nilai_aski.id_es2' in 'on clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `ev_nilai_aski_up`.`id` as `id`, `nama_es2`, `nilai_akhir`
+FROM `ev_nilai_aski_up`
+LEFT JOIN `km_es2` ON `ev_nilai_aski`.`id_es2`=`km_es2`.`id`
+JOIN `ev_nilai_aski` ON `ev_nilai_aski_up`.`id_user`=`ev_nilai_aski`.`id_user`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `ev_nilai_aski_up`.`id` as `id`, `nama_es2`, `nilai_akhir`
+FROM `ev_nilai_aski_up`
+LEFT JOIN `km_es2` ON `ev_nilai_aski`.`id_es2`=`km_es2`.`id`
+JOIN `ev_nilai_aski` ON `ev_nilai_aski_up`.`id_user`=`ev_nilai_aski`.`id_user`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `ev_nilai_aski_up`.`id` as `id`, `nama_es2`, `nilai_akhir`
+FROM `ev_nilai_aski_up`
+LEFT JOIN `km_es2` ON `ev_nilai_aski`.`id_es2`=`km_es2`.`id`
+JOIN `ev_nilai_aski` ON `ev_nilai_aski_up`.`id_user`=`ev_nilai_aski`.`id_user`', [], false)
+ 4 SYSTEMPATH\Model.php(930): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Models\MNilaiAski.php(21): CodeIgniter\Model->__call('get', [])
+ 6 APPPATH\Controllers\Pengawasan.php(48): App\Models\MNilaiAski->joinData()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-22 08:43:08 --> [Caused by] mysqli_sql_exception: Unknown column 'ev_nilai_aski.id_es2' in 'on clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `ev_nilai_aski_up`.`id` as `id`, `nama_es2`, `nilai_akhir`
+FROM `ev_nilai_aski_up`
+LEFT JOIN `km_es2` ON `ev_nilai_aski`.`id_es2`=`km_es2`.`id`
+JOIN `ev_nilai_aski` ON `ev_nilai_aski_up`.`id_user`=`ev_nilai_aski`.`id_user`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `ev_nilai_aski_up`.`id` as `id`, `nama_es2`, `nilai_akhir`
+FROM `ev_nilai_aski_up`
+LEFT JOIN `km_es2` ON `ev_nilai_aski`.`id_es2`=`km_es2`.`id`
+JOIN `ev_nilai_aski` ON `ev_nilai_aski_up`.`id_user`=`ev_nilai_aski`.`id_user`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `ev_nilai_aski_up`.`id` as `id`, `nama_es2`, `nilai_akhir`
+FROM `ev_nilai_aski_up`
+LEFT JOIN `km_es2` ON `ev_nilai_aski`.`id_es2`=`km_es2`.`id`
+JOIN `ev_nilai_aski` ON `ev_nilai_aski_up`.`id_user`=`ev_nilai_aski`.`id_user`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `ev_nilai_aski_up`.`id` as `id`, `nama_es2`, `nilai_akhir`
+FROM `ev_nilai_aski_up`
+LEFT JOIN `km_es2` ON `ev_nilai_aski`.`id_es2`=`km_es2`.`id`
+JOIN `ev_nilai_aski` ON `ev_nilai_aski_up`.`id_user`=`ev_nilai_aski`.`id_user`', [], false)
+ 5 SYSTEMPATH\Model.php(930): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Models\MNilaiAski.php(21): CodeIgniter\Model->__call('get', [])
+ 7 APPPATH\Controllers\Pengawasan.php(48): App\Models\MNilaiAski->joinData()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 08:43:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-08-22 08:43:10 --> mysqli_sql_exception: Unknown column 'ev_nilai_aski.id_es2' in 'on clause' in C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `ev_nila...', 0)
+#1 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `ev_nila...')
+#2 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `ev_nila...')
+#3 C:\laragon\www\evi_v2\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `ev_nila...', Array, false)
+#4 C:\laragon\www\evi_v2\system\Model.php(930): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\evi_v2\app\Models\MNilaiAski.php(21): CodeIgniter\Model->__call('get', Array)
+#6 C:\laragon\www\evi_v2\app\Controllers\Pengawasan.php(48): App\Models\MNilaiAski->joinData()
+#7 C:\laragon\www\evi_v2\system\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+#8 C:\laragon\www\evi_v2\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+#9 C:\laragon\www\evi_v2\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\evi_v2\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\laragon\www\evi_v2\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\laragon\www\evi_v2\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+CRITICAL - 2024-08-22 08:43:10 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'ev_nilai_aski.id_es2' in 'on clause'
+[Method: GET, Route: pengawasan/admin]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `ev_nilai_aski_up`.`id` as `id`, `nama_es2`, `nilai_akhir`
+FROM `ev_nilai_aski_up`
+LEFT JOIN `km_es2` ON `ev_nilai_aski`.`id_es2`=`km_es2`.`id`
+JOIN `ev_nilai_aski` ON `ev_nilai_aski_up`.`id_user`=`ev_nilai_aski`.`id_user`', [], false)
+ 2 SYSTEMPATH\Model.php(930): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Models\MNilaiAski.php(21): CodeIgniter\Model->__call('get', [])
+ 4 APPPATH\Controllers\Pengawasan.php(48): App\Models\MNilaiAski->joinData()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-22 08:43:10 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'ev_nilai_aski.id_es2' in 'on clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `ev_nilai_aski_up`.`id` as `id`, `nama_es2`, `nilai_akhir`
+FROM `ev_nilai_aski_up`
+LEFT JOIN `km_es2` ON `ev_nilai_aski`.`id_es2`=`km_es2`.`id`
+JOIN `ev_nilai_aski` ON `ev_nilai_aski_up`.`id_user`=`ev_nilai_aski`.`id_user`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `ev_nilai_aski_up`.`id` as `id`, `nama_es2`, `nilai_akhir`
+FROM `ev_nilai_aski_up`
+LEFT JOIN `km_es2` ON `ev_nilai_aski`.`id_es2`=`km_es2`.`id`
+JOIN `ev_nilai_aski` ON `ev_nilai_aski_up`.`id_user`=`ev_nilai_aski`.`id_user`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `ev_nilai_aski_up`.`id` as `id`, `nama_es2`, `nilai_akhir`
+FROM `ev_nilai_aski_up`
+LEFT JOIN `km_es2` ON `ev_nilai_aski`.`id_es2`=`km_es2`.`id`
+JOIN `ev_nilai_aski` ON `ev_nilai_aski_up`.`id_user`=`ev_nilai_aski`.`id_user`', [], false)
+ 4 SYSTEMPATH\Model.php(930): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Models\MNilaiAski.php(21): CodeIgniter\Model->__call('get', [])
+ 6 APPPATH\Controllers\Pengawasan.php(48): App\Models\MNilaiAski->joinData()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-22 08:43:10 --> [Caused by] mysqli_sql_exception: Unknown column 'ev_nilai_aski.id_es2' in 'on clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `ev_nilai_aski_up`.`id` as `id`, `nama_es2`, `nilai_akhir`
+FROM `ev_nilai_aski_up`
+LEFT JOIN `km_es2` ON `ev_nilai_aski`.`id_es2`=`km_es2`.`id`
+JOIN `ev_nilai_aski` ON `ev_nilai_aski_up`.`id_user`=`ev_nilai_aski`.`id_user`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `ev_nilai_aski_up`.`id` as `id`, `nama_es2`, `nilai_akhir`
+FROM `ev_nilai_aski_up`
+LEFT JOIN `km_es2` ON `ev_nilai_aski`.`id_es2`=`km_es2`.`id`
+JOIN `ev_nilai_aski` ON `ev_nilai_aski_up`.`id_user`=`ev_nilai_aski`.`id_user`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `ev_nilai_aski_up`.`id` as `id`, `nama_es2`, `nilai_akhir`
+FROM `ev_nilai_aski_up`
+LEFT JOIN `km_es2` ON `ev_nilai_aski`.`id_es2`=`km_es2`.`id`
+JOIN `ev_nilai_aski` ON `ev_nilai_aski_up`.`id_user`=`ev_nilai_aski`.`id_user`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `ev_nilai_aski_up`.`id` as `id`, `nama_es2`, `nilai_akhir`
+FROM `ev_nilai_aski_up`
+LEFT JOIN `km_es2` ON `ev_nilai_aski`.`id_es2`=`km_es2`.`id`
+JOIN `ev_nilai_aski` ON `ev_nilai_aski_up`.`id_user`=`ev_nilai_aski`.`id_user`', [], false)
+ 5 SYSTEMPATH\Model.php(930): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Models\MNilaiAski.php(21): CodeIgniter\Model->__call('get', [])
+ 7 APPPATH\Controllers\Pengawasan.php(48): App\Models\MNilaiAski->joinData()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 08:43:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 08:43:38 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(50): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 08:43:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:43:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 08:43:55 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(50): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 08:43:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:44:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 08:44:07 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(50): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 08:44:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:44:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 08:44:48 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(50): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 08:44:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:48:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 08:48:59 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(50): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 08:49:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:49:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:49:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:49:15 --> CSRF token verified.
+INFO - 2024-08-22 08:49:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:49:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 08:49:19 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(50): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 08:49:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:49:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 08:49:22 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(50): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 08:49:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:51:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:51:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 08:51:52 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(50): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 08:51:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:52:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 08:52:42 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(50): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 08:52:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:53:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 08:53:42 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(50): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 08:53:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:54:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 08:54:48 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(50): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 08:54:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:56:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 08:56:17 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(50): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 08:56:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:57:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 08:57:44 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(50): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 08:57:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:58:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 08:58:52 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(50): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 08:58:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:59:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 08:59:10 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(50): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 08:59:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 08:59:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 08:59:40 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(50): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 08:59:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 09:05:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 09:05:06 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(50): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 09:05:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 09:05:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 09:05:27 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(50): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 09:05:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 09:05:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 09:05:48 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(50): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 09:05:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 09:05:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 09:05:53 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(50): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 09:05:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 09:06:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 09:06:03 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(50): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 09:06:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 09:06:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 09:06:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 09:07:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 09:07:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 09:07:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 09:08:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 09:08:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 09:09:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 09:09:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 09:09:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 09:12:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 09:12:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 09:12:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 09:12:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 09:19:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 09:20:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 09:20:30 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(50): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 09:20:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 09:20:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 09:20:32 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(50): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 09:20:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 09:20:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 09:20:55 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(50): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 09:20:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 09:20:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 09:20:59 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(50): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 09:21:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 09:21:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 09:21:20 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(50): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 09:21:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 09:21:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 09:21:22 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(50): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 09:21:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 09:21:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 09:21:43 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(50): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 09:21:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 09:25:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 09:26:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 09:26:08 --> CSRF token verified.
+INFO - 2024-08-22 09:26:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 09:26:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 09:26:11 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(50): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 09:26:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 09:28:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 09:28:09 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(50): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-22 09:28:09 --> ErrorException: Undefined array key "nilai_standar_subkategori"
+[Method: GET, Route: pengawasan/admin]
+in APPPATH\Views\pengawasan\admin.php on line 29.
+ 1 APPPATH\Views\pengawasan\admin.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nilai_standar_subkategori"', 'C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\admin.php', 29)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\admin.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengawasan/admin', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('pengawasan/admin')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Pengawasan.php(50): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+15 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+16 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+18 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+19 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 09:28:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 09:28:44 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(50): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 09:28:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 09:28:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 09:29:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 09:32:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 09:33:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 09:33:02 --> CSRF token verified.
+INFO - 2024-08-22 09:33:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 09:33:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 09:33:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 09:33:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 09:33:57 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(50): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 09:33:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-22 09:35:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-22 09:35:06 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(50): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->admin()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-22 09:35:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

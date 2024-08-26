@@ -1,0 +1,91 @@
+:root {
+    --background-light: #ffffff;
+    --text-light: #000000;
+    --background-dark: #343a40;
+    --text-dark: #ffffff;
+}
+
+body.light-mode {
+    background-color: var(--background-light);
+    color: var(--text-light);
+}
+
+body.dark-mode {
+    background-color: var(--background-dark);
+    color: var(--text-dark);
+}
+
+body.light-mode .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+body.dark-mode .btn-primary {
+    background-color: #375a7f;
+    border-color: #375a7f;
+}
+
+/* animasi ikon dark/light theme  */
+.btn-one {
+    background-color: #0E6EB8;
+    color: white;
+}
+
+.btn-one:hover {
+    background-color: #044577;
+    /* Warna saat dihover */
+}
+
+.btn-two {
+    background-color: #960ec3;
+    color: white;
+    transition: background-color 0.3s ease;
+    /* Smooth transition */
+
+}
+
+.btn-two:hover {
+    background-color: #440958;
+    color: white;
+
+}
+
+.btn-succes-1 {
+    background-color: #16a34a;
+    color: white;
+
+}
+
+.btn-danger-1 {
+    background-color: #ff595e;
+    color: white;
+
+}
+
+.btn-warning-1 {
+    background-color: #ff9f1c;
+    color: white;
+
+}
+
+.btn-info-1 {
+    background-color: #54B4D3;
+    color: white;
+
+}
+
+.bg-one {
+    background-color: #0d41e1;
+}
+
+.bg-two {
+    background-color: #7b2cbf;
+}
+
+.bg-three {
+    background-color: #1dd3b0;
+}
+
+.bg-four {
+    background-color: #ffb703;
+}

@@ -1,0 +1,1852 @@
+INFO - 2024-07-25 02:27:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:32:52 --> CSRF token verified.
+INFO - 2024-07-25 02:32:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:32:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:32:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:32:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:32:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:35:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:35:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:35:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:35:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:35:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:35:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:35:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:35:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:35:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:35:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:35:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:35:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:35:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:36:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:36:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:36:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:36:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:36:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:36:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:36:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:36:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:36:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:36:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:36:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:37:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:37:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:37:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:37:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:38:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:38:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:38:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:38:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:39:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:39:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:39:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:39:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:39:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:39:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:39:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:39:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:39:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:39:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:39:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:39:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:39:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:39:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:39:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:39:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:40:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:47:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:47:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:47:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:47:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:48:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:48:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:49:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:49:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:49:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:50:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:53:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:55:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 02:57:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:03:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:04:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:05:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:05:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:05:32 --> CSRF token verified.
+INFO - 2024-07-25 03:05:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-25 03:05:33 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: user/edit/dist/img/user1-128x128.jpg]
+in APPPATH\Views\user\edit.php on line 13.
+ 1 APPPATH\Views\user\edit.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\laragon\\www\\evi_v2\\app\\Views\\user\\edit.php', 13)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\user\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/edit', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('user/edit')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\User.php(67): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->edit('dist', 'img', 'user1-128x128.jpg')
+15 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+16 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+18 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+19 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-07-25 03:05:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-25 03:05:33 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: user/edit/dist/img/user3-128x128.jpg]
+in APPPATH\Views\user\edit.php on line 13.
+ 1 APPPATH\Views\user\edit.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\laragon\\www\\evi_v2\\app\\Views\\user\\edit.php', 13)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\user\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/edit', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('user/edit')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\User.php(67): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->edit('dist', 'img', 'user3-128x128.jpg')
+15 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+16 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+18 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+19 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-07-25 03:05:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-25 03:05:33 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: user/edit/dist/img/user8-128x128.jpg]
+in APPPATH\Views\user\edit.php on line 13.
+ 1 APPPATH\Views\user\edit.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\laragon\\www\\evi_v2\\app\\Views\\user\\edit.php', 13)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\user\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/edit', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('user/edit')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\User.php(67): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->edit('dist', 'img', 'user8-128x128.jpg')
+15 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+16 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+18 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+19 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-07-25 03:05:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:06:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:06:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:06:53 --> CSRF token verified.
+INFO - 2024-07-25 03:07:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:07:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:08:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:08:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:08:35 --> CSRF token verified.
+INFO - 2024-07-25 03:08:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:08:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:08:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:08:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:08:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:10:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-25 03:10:54 --> ErrorException: Undefined variable $user
+[Method: GET, Route: user/rbac]
+in APPPATH\Views\user\rbac.php on line 114.
+ 1 APPPATH\Views\user\rbac.php(114): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user', 'C:\\laragon\\www\\evi_v2\\app\\Views\\user\\rbac.php', 114)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\user\\rbac.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/rbac', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('user/rbac')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\User.php(179): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->rbac()
+15 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+16 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+18 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+19 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-07-25 03:11:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:12:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:12:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:12:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:31:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:31:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:31:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:31:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:31:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:31:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:31:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:31:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:32:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:32:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:32:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:32:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:32:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:32:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:32:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:32:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:33:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:33:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:33:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:33:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:36:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:36:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:36:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:36:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:36:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:36:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:36:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:36:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:37:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:37:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:37:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:37:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:38:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:38:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:38:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:38:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:38:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:38:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:38:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:38:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:39:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:39:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:39:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:39:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:43:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:43:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:43:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:43:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:49:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:49:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:49:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:49:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:49:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:49:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:49:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:49:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:49:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:49:43 --> CSRF token verified.
+ERROR - 2024-07-25 03:49:43 --> mysqli_sql_exception: Column 'id_user' cannot be null in C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `dd...', 0)
+#1 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `dd...')
+#2 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `dd...')
+#3 C:\laragon\www\evi_v2\system\Database\BaseBuilder.php(2332): CodeIgniter\Database\BaseConnection->query('INSERT INTO `dd...', Array, false)
+#4 C:\laragon\www\evi_v2\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\laragon\www\evi_v2\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\laragon\www\evi_v2\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\laragon\www\evi_v2\app\Controllers\User.php(208): CodeIgniter\Model->insert(Array)
+#8 C:\laragon\www\evi_v2\system\CodeIgniter.php(933): App\Controllers\User->add_rbac()
+#9 C:\laragon\www\evi_v2\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#10 C:\laragon\www\evi_v2\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\evi_v2\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\laragon\www\evi_v2\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\laragon\www\evi_v2\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-07-25 03:49:43 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'id_user' cannot be null
+[Method: POST, Route: user/add_rbac]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2332): CodeIgniter\Database\BaseConnection->query('INSERT INTO `dd_hak_unit` (`id_user`, `key_unit`, `level_unit`, `parameter_unit`) VALUES (:id_user:, :key_unit:, :level_unit:, :parameter_unit:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\User.php(208): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->add_rbac()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-25 03:49:43 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'id_user' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `dd_hak_unit` (`id_user`, `key_unit`, `level_unit`, `parameter_unit`) VALUES (NULL, NULL, NULL, NULL)')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `dd_hak_unit` (`id_user`, `key_unit`, `level_unit`, `parameter_unit`) VALUES (NULL, NULL, NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2332): CodeIgniter\Database\BaseConnection->query('INSERT INTO `dd_hak_unit` (`id_user`, `key_unit`, `level_unit`, `parameter_unit`) VALUES (:id_user:, :key_unit:, :level_unit:, :parameter_unit:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\User.php(208): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->add_rbac()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-25 03:49:43 --> [Caused by] mysqli_sql_exception: Column 'id_user' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `dd_hak_unit` (`id_user`, `key_unit`, `level_unit`, `parameter_unit`) VALUES (NULL, NULL, NULL, NULL)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `dd_hak_unit` (`id_user`, `key_unit`, `level_unit`, `parameter_unit`) VALUES (NULL, NULL, NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `dd_hak_unit` (`id_user`, `key_unit`, `level_unit`, `parameter_unit`) VALUES (NULL, NULL, NULL, NULL)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2332): CodeIgniter\Database\BaseConnection->query('INSERT INTO `dd_hak_unit` (`id_user`, `key_unit`, `level_unit`, `parameter_unit`) VALUES (:id_user:, :key_unit:, :level_unit:, :parameter_unit:)', [...], false)
+ 5 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\User.php(208): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->add_rbac()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-07-25 03:52:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:52:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:52:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:52:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:52:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:52:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:52:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:52:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:53:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:53:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:53:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:53:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:53:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:53:23 --> CSRF token verified.
+INFO - 2024-07-25 03:53:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:53:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:53:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:53:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:54:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:54:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:54:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:54:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:56:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:56:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:56:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:56:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:56:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:56:36 --> CSRF token verified.
+INFO - 2024-07-25 03:56:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:57:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:57:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:57:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:57:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:57:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:57:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:57:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:57:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:57:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:57:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:57:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:58:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:58:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:58:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 03:58:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 04:02:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 04:02:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 04:02:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 04:02:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 04:02:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 04:02:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 04:02:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 04:02:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 04:02:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 04:02:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 04:02:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 04:02:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 04:05:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 04:05:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 04:05:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 04:05:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 04:05:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 04:05:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 04:05:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 04:05:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 04:06:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 04:06:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 04:06:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 04:06:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 04:06:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 04:06:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 04:06:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 04:06:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 04:07:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 04:07:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 04:07:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 04:07:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 04:07:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 04:07:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 04:07:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 04:07:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 04:11:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 04:11:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 04:11:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 04:11:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 04:11:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 07:15:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 07:15:14 --> CSRF token verified.
+INFO - 2024-07-25 07:15:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 07:15:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 07:15:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 07:15:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 07:15:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 08:15:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-25 08:15:23 --> mysqli_sql_exception: Not unique table/alias: 'ev_item_aktif' in C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `km_es2`...', 0)
+#1 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `km_es2`...')
+#2 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `km_es2`...')
+#3 C:\laragon\www\evi_v2\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`...', Array, false)
+#4 C:\laragon\www\evi_v2\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\evi_v2\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\evi_v2\app\Models\MArsip.php(91): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\evi_v2\app\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+#8 C:\laragon\www\evi_v2\system\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+#9 C:\laragon\www\evi_v2\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#10 C:\laragon\www\evi_v2\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\evi_v2\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\laragon\www\evi_v2\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\laragon\www\evi_v2\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-07-25 08:15:23 --> CodeIgniter\Database\Exceptions\DatabaseException: Not unique table/alias: 'ev_item_aktif'
+[Method: GET, Route: dashboard/admin]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `ev_item_aktif`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` ON `km_sub_bidang`.`id` = `ev_item_aktif`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', [], false)
+ 2 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Models\MArsip.php(91): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-25 08:15:23 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Not unique table/alias: 'ev_item_aktif'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `ev_item_aktif`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` ON `km_sub_bidang`.`id` = `ev_item_aktif`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `ev_item_aktif`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` ON `km_sub_bidang`.`id` = `ev_item_aktif`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `ev_item_aktif`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` ON `km_sub_bidang`.`id` = `ev_item_aktif`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', [], false)
+ 4 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Models\MArsip.php(91): CodeIgniter\BaseModel->findAll()
+ 7 APPPATH\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-25 08:15:23 --> [Caused by] mysqli_sql_exception: Not unique table/alias: 'ev_item_aktif'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `ev_item_aktif`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` ON `km_sub_bidang`.`id` = `ev_item_aktif`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `ev_item_aktif`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` ON `km_sub_bidang`.`id` = `ev_item_aktif`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `ev_item_aktif`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` ON `km_sub_bidang`.`id` = `ev_item_aktif`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `ev_item_aktif`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` ON `km_sub_bidang`.`id` = `ev_item_aktif`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', [], false)
+ 5 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Models\MArsip.php(91): CodeIgniter\BaseModel->findAll()
+ 8 APPPATH\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-07-25 08:16:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-25 08:16:40 --> mysqli_sql_exception: Not unique table/alias: 'ev_item_aktif' in C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `km_es2`...', 0)
+#1 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `km_es2`...')
+#2 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `km_es2`...')
+#3 C:\laragon\www\evi_v2\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`...', Array, false)
+#4 C:\laragon\www\evi_v2\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\evi_v2\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\evi_v2\app\Models\MArsip.php(91): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\evi_v2\app\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+#8 C:\laragon\www\evi_v2\system\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+#9 C:\laragon\www\evi_v2\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#10 C:\laragon\www\evi_v2\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\evi_v2\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\laragon\www\evi_v2\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\laragon\www\evi_v2\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-07-25 08:16:40 --> CodeIgniter\Database\Exceptions\DatabaseException: Not unique table/alias: 'ev_item_aktif'
+[Method: GET, Route: dashboard/admin]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `ev_item_aktif`
+LEFT JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+LEFT JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` ON `km_sub_bidang`.`id` = `ev_item_aktif`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', [], false)
+ 2 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Models\MArsip.php(91): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-25 08:16:40 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Not unique table/alias: 'ev_item_aktif'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `ev_item_aktif`
+LEFT JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+LEFT JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` ON `km_sub_bidang`.`id` = `ev_item_aktif`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `ev_item_aktif`
+LEFT JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+LEFT JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` ON `km_sub_bidang`.`id` = `ev_item_aktif`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `ev_item_aktif`
+LEFT JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+LEFT JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` ON `km_sub_bidang`.`id` = `ev_item_aktif`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', [], false)
+ 4 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Models\MArsip.php(91): CodeIgniter\BaseModel->findAll()
+ 7 APPPATH\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-25 08:16:40 --> [Caused by] mysqli_sql_exception: Not unique table/alias: 'ev_item_aktif'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `ev_item_aktif`
+LEFT JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+LEFT JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` ON `km_sub_bidang`.`id` = `ev_item_aktif`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `ev_item_aktif`
+LEFT JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+LEFT JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` ON `km_sub_bidang`.`id` = `ev_item_aktif`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `ev_item_aktif`
+LEFT JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+LEFT JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` ON `km_sub_bidang`.`id` = `ev_item_aktif`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `ev_item_aktif`
+LEFT JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+LEFT JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` ON `km_sub_bidang`.`id` = `ev_item_aktif`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', [], false)
+ 5 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Models\MArsip.php(91): CodeIgniter\BaseModel->findAll()
+ 8 APPPATH\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-07-25 08:17:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-25 08:17:15 --> mysqli_sql_exception: Unknown column 'km_es2.id' in 'field list' in C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `km_es2`...', 0)
+#1 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `km_es2`...')
+#2 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `km_es2`...')
+#3 C:\laragon\www\evi_v2\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`...', Array, false)
+#4 C:\laragon\www\evi_v2\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\evi_v2\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\evi_v2\app\Models\MArsip.php(91): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\evi_v2\app\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+#8 C:\laragon\www\evi_v2\system\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+#9 C:\laragon\www\evi_v2\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#10 C:\laragon\www\evi_v2\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\evi_v2\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\laragon\www\evi_v2\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\laragon\www\evi_v2\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-07-25 08:17:15 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'km_es2.id' in 'field list'
+[Method: GET, Route: dashboard/admin]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `ev_item_aktif`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', [], false)
+ 2 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Models\MArsip.php(91): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-25 08:17:15 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'km_es2.id' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `ev_item_aktif`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `ev_item_aktif`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `ev_item_aktif`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', [], false)
+ 4 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Models\MArsip.php(91): CodeIgniter\BaseModel->findAll()
+ 7 APPPATH\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-25 08:17:15 --> [Caused by] mysqli_sql_exception: Unknown column 'km_es2.id' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `ev_item_aktif`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `ev_item_aktif`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `ev_item_aktif`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `ev_item_aktif`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', [], false)
+ 5 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Models\MArsip.php(91): CodeIgniter\BaseModel->findAll()
+ 8 APPPATH\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-07-25 08:17:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-25 08:17:17 --> mysqli_sql_exception: Unknown column 'km_es2.id' in 'field list' in C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `km_es2`...', 0)
+#1 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `km_es2`...')
+#2 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `km_es2`...')
+#3 C:\laragon\www\evi_v2\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`...', Array, false)
+#4 C:\laragon\www\evi_v2\system\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\evi_v2\system\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\evi_v2\app\Models\MArsip.php(91): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\evi_v2\app\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+#8 C:\laragon\www\evi_v2\system\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+#9 C:\laragon\www\evi_v2\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#10 C:\laragon\www\evi_v2\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\evi_v2\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\laragon\www\evi_v2\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\laragon\www\evi_v2\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-07-25 08:17:17 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'km_es2.id' in 'field list'
+[Method: GET, Route: dashboard/admin]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `ev_item_aktif`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', [], false)
+ 2 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Models\MArsip.php(91): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-25 08:17:17 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'km_es2.id' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `ev_item_aktif`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `ev_item_aktif`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `ev_item_aktif`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', [], false)
+ 4 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Models\MArsip.php(91): CodeIgniter\BaseModel->findAll()
+ 7 APPPATH\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-25 08:17:17 --> [Caused by] mysqli_sql_exception: Unknown column 'km_es2.id' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `ev_item_aktif`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `ev_item_aktif`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `ev_item_aktif`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `ev_item_aktif`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', [], false)
+ 5 SYSTEMPATH\Model.php(286): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Models\MArsip.php(91): CodeIgniter\BaseModel->findAll()
+ 8 APPPATH\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-07-25 08:19:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-25 08:19:20 --> mysqli_sql_exception: Unknown column 'ev_item_aktif.id' in 'field list' in C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `km_es2`...', 0)
+#1 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `km_es2`...')
+#2 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `km_es2`...')
+#3 C:\laragon\www\evi_v2\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`...', Array, false)
+#4 C:\laragon\www\evi_v2\app\Models\MArsip.php(92): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\evi_v2\app\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+#6 C:\laragon\www\evi_v2\system\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+#7 C:\laragon\www\evi_v2\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#8 C:\laragon\www\evi_v2\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\laragon\www\evi_v2\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\laragon\www\evi_v2\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\laragon\www\evi_v2\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-07-25 08:19:20 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'ev_item_aktif.id' in 'field list'
+[Method: GET, Route: dashboard/admin]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', [], false)
+ 2 APPPATH\Models\MArsip.php(92): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-25 08:19:20 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'ev_item_aktif.id' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', [], false)
+ 4 APPPATH\Models\MArsip.php(92): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-25 08:19:20 --> [Caused by] mysqli_sql_exception: Unknown column 'ev_item_aktif.id' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', [], false)
+ 5 APPPATH\Models\MArsip.php(92): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-07-25 08:19:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-25 08:19:21 --> mysqli_sql_exception: Unknown column 'ev_item_aktif.id' in 'field list' in C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `km_es2`...', 0)
+#1 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `km_es2`...')
+#2 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `km_es2`...')
+#3 C:\laragon\www\evi_v2\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`...', Array, false)
+#4 C:\laragon\www\evi_v2\app\Models\MArsip.php(92): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\evi_v2\app\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+#6 C:\laragon\www\evi_v2\system\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+#7 C:\laragon\www\evi_v2\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#8 C:\laragon\www\evi_v2\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\laragon\www\evi_v2\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\laragon\www\evi_v2\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\laragon\www\evi_v2\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-07-25 08:19:21 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'ev_item_aktif.id' in 'field list'
+[Method: GET, Route: dashboard/admin]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', [], false)
+ 2 APPPATH\Models\MArsip.php(92): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-25 08:19:21 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'ev_item_aktif.id' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', [], false)
+ 4 APPPATH\Models\MArsip.php(92): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-25 08:19:21 --> [Caused by] mysqli_sql_exception: Unknown column 'ev_item_aktif.id' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', [], false)
+ 5 APPPATH\Models\MArsip.php(92): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-07-25 08:19:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-25 08:19:39 --> mysqli_sql_exception: Unknown column 'ev_item_aktif.id' in 'field list' in C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `km_es2`...', 0)
+#1 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `km_es2`...')
+#2 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `km_es2`...')
+#3 C:\laragon\www\evi_v2\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`...', Array, false)
+#4 C:\laragon\www\evi_v2\app\Models\MArsip.php(92): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\evi_v2\app\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+#6 C:\laragon\www\evi_v2\system\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+#7 C:\laragon\www\evi_v2\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#8 C:\laragon\www\evi_v2\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\laragon\www\evi_v2\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\laragon\www\evi_v2\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\laragon\www\evi_v2\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-07-25 08:19:39 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'ev_item_aktif.id' in 'field list'
+[Method: GET, Route: dashboard/admin]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` as `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', [], false)
+ 2 APPPATH\Models\MArsip.php(92): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-25 08:19:39 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'ev_item_aktif.id' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` as `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` as `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` as `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', [], false)
+ 4 APPPATH\Models\MArsip.php(92): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-25 08:19:39 --> [Caused by] mysqli_sql_exception: Unknown column 'ev_item_aktif.id' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` as `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` as `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` as `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` as `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', [], false)
+ 5 APPPATH\Models\MArsip.php(92): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-07-25 08:19:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-25 08:20:13 --> ErrorException: Undefined array key "es2_id"
+[Method: GET, Route: dashboard/admin]
+in APPPATH\Views\dashboard\admin.php on line 36.
+ 1 APPPATH\Views\dashboard\admin.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "es2_id"', 'C:\\laragon\\www\\evi_v2\\app\\Views\\dashboard\\admin.php', 36)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\dashboard\\admin.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/admin', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('dashboard/admin')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Dashboard.php(80): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+15 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+16 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+18 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+19 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-07-25 08:22:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-25 08:22:34 --> ErrorException: Undefined array key "id_unit"
+[Method: GET, Route: dashboard/admin]
+in APPPATH\Views\dashboard\admin.php on line 36.
+ 1 APPPATH\Views\dashboard\admin.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_unit"', 'C:\\laragon\\www\\evi_v2\\app\\Views\\dashboard\\admin.php', 36)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\dashboard\\admin.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/admin', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('dashboard/admin')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Dashboard.php(80): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+15 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+16 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+18 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+19 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-07-25 08:23:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-25 08:23:47 --> ErrorException: Undefined array key "id_unit"
+[Method: GET, Route: dashboard/admin]
+in APPPATH\Views\dashboard\admin.php on line 36.
+ 1 APPPATH\Views\dashboard\admin.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_unit"', 'C:\\laragon\\www\\evi_v2\\app\\Views\\dashboard\\admin.php', 36)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\dashboard\\admin.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/admin', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('dashboard/admin')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Dashboard.php(80): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+15 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+16 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+18 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+19 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-07-25 08:24:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-25 08:24:59 --> mysqli_sql_exception: Unknown column 'ev_item_aktif.id' in 'field list' in C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `km_es2`...', 0)
+#1 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `km_es2`...')
+#2 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `km_es2`...')
+#3 C:\laragon\www\evi_v2\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`...', Array, false)
+#4 C:\laragon\www\evi_v2\app\Models\MArsip.php(93): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\evi_v2\app\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+#6 C:\laragon\www\evi_v2\system\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+#7 C:\laragon\www\evi_v2\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#8 C:\laragon\www\evi_v2\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\laragon\www\evi_v2\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\laragon\www\evi_v2\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\laragon\www\evi_v2\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-07-25 08:24:59 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'ev_item_aktif.id' in 'field list'
+[Method: GET, Route: dashboard/admin]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', [], false)
+ 2 APPPATH\Models\MArsip.php(93): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-25 08:24:59 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'ev_item_aktif.id' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', [], false)
+ 4 APPPATH\Models\MArsip.php(93): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-25 08:24:59 --> [Caused by] mysqli_sql_exception: Unknown column 'ev_item_aktif.id' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', [], false)
+ 5 APPPATH\Models\MArsip.php(93): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-07-25 08:25:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-25 08:25:05 --> mysqli_sql_exception: Unknown column 'ev_item_aktif.id' in 'field list' in C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `km_es2`...', 0)
+#1 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `km_es2`...')
+#2 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `km_es2`...')
+#3 C:\laragon\www\evi_v2\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`...', Array, false)
+#4 C:\laragon\www\evi_v2\app\Models\MArsip.php(93): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\evi_v2\app\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+#6 C:\laragon\www\evi_v2\system\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+#7 C:\laragon\www\evi_v2\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#8 C:\laragon\www\evi_v2\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\laragon\www\evi_v2\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\laragon\www\evi_v2\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\laragon\www\evi_v2\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-07-25 08:25:05 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'ev_item_aktif.id' in 'field list'
+[Method: GET, Route: dashboard/admin]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', [], false)
+ 2 APPPATH\Models\MArsip.php(93): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-25 08:25:05 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'ev_item_aktif.id' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', [], false)
+ 4 APPPATH\Models\MArsip.php(93): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-25 08:25:05 --> [Caused by] mysqli_sql_exception: Unknown column 'ev_item_aktif.id' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', [], false)
+ 5 APPPATH\Models\MArsip.php(93): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-07-25 08:26:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-25 08:26:11 --> mysqli_sql_exception: Unknown column 'ev_item_aktif.id' in 'field list' in C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `km_es2`...', 0)
+#1 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `km_es2`...')
+#2 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `km_es2`...')
+#3 C:\laragon\www\evi_v2\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`...', Array, false)
+#4 C:\laragon\www\evi_v2\app\Models\MArsip.php(93): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\evi_v2\app\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+#6 C:\laragon\www\evi_v2\system\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+#7 C:\laragon\www\evi_v2\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#8 C:\laragon\www\evi_v2\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\laragon\www\evi_v2\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\laragon\www\evi_v2\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\laragon\www\evi_v2\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-07-25 08:26:11 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'ev_item_aktif.id' in 'field list'
+[Method: GET, Route: dashboard/admin]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` as `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', [], false)
+ 2 APPPATH\Models\MArsip.php(93): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-25 08:26:11 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'ev_item_aktif.id' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` as `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` as `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` as `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', [], false)
+ 4 APPPATH\Models\MArsip.php(93): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-25 08:26:11 --> [Caused by] mysqli_sql_exception: Unknown column 'ev_item_aktif.id' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` as `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` as `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` as `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` as `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', [], false)
+ 5 APPPATH\Models\MArsip.php(93): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-07-25 08:26:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-25 08:26:13 --> mysqli_sql_exception: Unknown column 'ev_item_aktif.id' in 'field list' in C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `km_es2`...', 0)
+#1 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `km_es2`...')
+#2 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `km_es2`...')
+#3 C:\laragon\www\evi_v2\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`...', Array, false)
+#4 C:\laragon\www\evi_v2\app\Models\MArsip.php(93): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\evi_v2\app\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+#6 C:\laragon\www\evi_v2\system\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+#7 C:\laragon\www\evi_v2\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#8 C:\laragon\www\evi_v2\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\laragon\www\evi_v2\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\laragon\www\evi_v2\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\laragon\www\evi_v2\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-07-25 08:26:13 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'ev_item_aktif.id' in 'field list'
+[Method: GET, Route: dashboard/admin]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` as `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', [], false)
+ 2 APPPATH\Models\MArsip.php(93): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-25 08:26:13 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'ev_item_aktif.id' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` as `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` as `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` as `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', [], false)
+ 4 APPPATH\Models\MArsip.php(93): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-25 08:26:13 --> [Caused by] mysqli_sql_exception: Unknown column 'ev_item_aktif.id' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` as `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` as `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` as `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev_item_aktif.id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` as `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', [], false)
+ 5 APPPATH\Models\MArsip.php(93): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-07-25 08:27:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-25 08:27:05 --> mysqli_sql_exception: Unknown column 'ev.item_id' in 'field list' in C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\evi_v2\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `km_es2`...', 0)
+#1 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `km_es2`...')
+#2 C:\laragon\www\evi_v2\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `km_es2`...')
+#3 C:\laragon\www\evi_v2\system\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`...', Array, false)
+#4 C:\laragon\www\evi_v2\app\Models\MArsip.php(93): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\evi_v2\app\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+#6 C:\laragon\www\evi_v2\system\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+#7 C:\laragon\www\evi_v2\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#8 C:\laragon\www\evi_v2\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\laragon\www\evi_v2\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#10 C:\laragon\www\evi_v2\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\laragon\www\evi_v2\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-07-25 08:27:05 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'ev.item_id' in 'field list'
+[Method: GET, Route: dashboard/admin]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev.item_id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', [], false)
+ 2 APPPATH\Models\MArsip.php(93): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-25 08:27:05 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'ev.item_id' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev.item_id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev.item_id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev.item_id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', [], false)
+ 4 APPPATH\Models\MArsip.php(93): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-25 08:27:05 --> [Caused by] mysqli_sql_exception: Unknown column 'ev.item_id' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev.item_id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev.item_id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev.item_id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1636): CodeIgniter\Database\BaseConnection->query('SELECT `km_es2`.`id` AS `es2_id`, `km_es2`.`nama_es2`, COUNT(ev.item_id) AS jumlah_arsip
+FROM `km_es2`
+JOIN `km_bidang` ON `km_es2`.`id` = `km_bidang`.`id_es2`
+JOIN `km_sub_bidang` ON `km_bidang`.`id` = `km_sub_bidang`.`id_bidang`
+LEFT JOIN `ev_item_aktif` `ev` ON `km_sub_bidang`.`id` = `ev`.`id_sub_bidang`
+GROUP BY `km_es2`.`id`, `km_es2`.`nama_es2`', [], false)
+ 5 APPPATH\Models\MArsip.php(93): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Dashboard.php(68): App\Models\MArsip->getRekapitulasiArsip()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-07-25 08:27:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-25 08:27:49 --> ErrorException: Undefined array key "es2_id"
+[Method: GET, Route: dashboard/admin]
+in APPPATH\Views\dashboard\admin.php on line 36.
+ 1 APPPATH\Views\dashboard\admin.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "es2_id"', 'C:\\laragon\\www\\evi_v2\\app\\Views\\dashboard\\admin.php', 36)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\dashboard\\admin.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/admin', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('dashboard/admin')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Dashboard.php(80): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+15 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+16 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+18 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+19 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-07-25 08:35:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-25 08:35:23 --> ErrorException: Undefined array key "id_es"
+[Method: GET, Route: dashboard/admin]
+in APPPATH\Views\dashboard\admin.php on line 36.
+ 1 APPPATH\Views\dashboard\admin.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_es"', 'C:\\laragon\\www\\evi_v2\\app\\Views\\dashboard\\admin.php', 36)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\dashboard\\admin.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/admin', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('dashboard/admin')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Dashboard.php(80): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+15 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+16 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+18 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+19 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-07-25 08:35:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-25 08:36:20 --> ErrorException: Undefined array key "id_es"
+[Method: GET, Route: dashboard/admin]
+in APPPATH\Views\dashboard\admin.php on line 36.
+ 1 APPPATH\Views\dashboard\admin.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_es"', 'C:\\laragon\\www\\evi_v2\\app\\Views\\dashboard\\admin.php', 36)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\dashboard\\admin.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/admin', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('dashboard/admin')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Dashboard.php(83): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+15 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+16 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+18 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+19 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-07-25 08:38:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-25 08:38:23 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "rekapitulasi_view.php"
+[Method: GET, Route: dashboard/admin]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('rekapitulasi_view.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('rekapitulasi_view', [], true)
+ 3 APPPATH\Controllers\Dashboard.php(50): view('rekapitulasi_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-07-25 08:38:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 08:40:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-25 08:41:06 --> ErrorException: Undefined array key "id_es"
+[Method: GET, Route: dashboard/admin]
+in APPPATH\Views\dashboard\admin.php on line 36.
+ 1 APPPATH\Views\dashboard\admin.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_es"', 'C:\\laragon\\www\\evi_v2\\app\\Views\\dashboard\\admin.php', 36)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\dashboard\\admin.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/admin', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('dashboard/admin')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Dashboard.php(81): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+15 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+16 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+18 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+19 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-07-25 09:29:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-25 09:29:28 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "rekapitulasi_view.php"
+[Method: GET, Route: dashboard/admin]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('rekapitulasi_view.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('rekapitulasi_view', [], true)
+ 3 APPPATH\Controllers\Dashboard.php(50): view('rekapitulasi_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-07-25 09:31:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-25 09:31:12 --> ErrorException: Undefined array key "es2_id"
+[Method: GET, Route: dashboard/admin]
+in APPPATH\Views\rekapitulasi_view.php on line 22.
+ 1 APPPATH\Views\rekapitulasi_view.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "es2_id"', 'C:\\laragon\\www\\evi_v2\\app\\Views\\rekapitulasi_view.php', 22)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\rekapitulasi_view.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('rekapitulasi_view', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(50): view('rekapitulasi_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-07-25 09:31:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-25 09:31:42 --> ErrorException: Undefined array key "es2_id"
+[Method: GET, Route: dashboard/admin]
+in APPPATH\Views\rekapitulasi_view.php on line 22.
+ 1 APPPATH\Views\rekapitulasi_view.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "es2_id"', 'C:\\laragon\\www\\evi_v2\\app\\Views\\rekapitulasi_view.php', 22)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\rekapitulasi_view.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('rekapitulasi_view', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(50): view('rekapitulasi_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-07-25 09:32:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-25 09:32:01 --> ErrorException: Undefined array key "nama_unit"
+[Method: GET, Route: dashboard/admin]
+in APPPATH\Views\rekapitulasi_view.php on line 22.
+ 1 APPPATH\Views\rekapitulasi_view.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama_unit"', 'C:\\laragon\\www\\evi_v2\\app\\Views\\rekapitulasi_view.php', 22)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\rekapitulasi_view.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('rekapitulasi_view', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(50): view('rekapitulasi_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-07-25 09:32:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 09:33:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-25 09:33:23 --> ErrorException: Undefined array key "id_es"
+[Method: GET, Route: dashboard/admin]
+in APPPATH\Views\dashboard\admin.php on line 36.
+ 1 APPPATH\Views\dashboard\admin.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_es"', 'C:\\laragon\\www\\evi_v2\\app\\Views\\dashboard\\admin.php', 36)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\dashboard\\admin.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/admin', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('dashboard/admin')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Dashboard.php(81): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+15 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+16 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+18 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+19 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-07-25 09:34:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-25 09:34:25 --> ErrorException: Undefined array key "nama_es2"
+[Method: GET, Route: dashboard/admin]
+in APPPATH\Views\dashboard\admin.php on line 36.
+ 1 APPPATH\Views\dashboard\admin.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama_es2"', 'C:\\laragon\\www\\evi_v2\\app\\Views\\dashboard\\admin.php', 36)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\dashboard\\admin.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('dashboard/admin', [], true)
+ 5 APPPATH\Views\layout\content.php(4): view('dashboard/admin')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\content.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/content', [], true)
+ 9 APPPATH\Views\layout\wrapper.php(6): view('layout/content')
+10 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+11 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+12 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+13 APPPATH\Controllers\Dashboard.php(81): view('layout/wrapper', [...])
+14 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->admin()
+15 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+16 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+18 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+19 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-07-25 09:44:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 09:44:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 09:44:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 09:44:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

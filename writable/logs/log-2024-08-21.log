@@ -1,0 +1,433 @@
+INFO - 2024-08-21 07:18:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-21 07:18:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-21 07:21:08 --> CSRF token verified.
+INFO - 2024-08-21 07:21:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-21 07:21:11 --> CSRF token verified.
+INFO - 2024-08-21 07:21:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-21 07:21:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-21 07:21:12 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Dashboard.php(45): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Dashboard->index()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-21 07:21:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-21 07:21:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-21 07:21:21 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(33): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->index()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-21 07:21:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-21 07:21:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-21 07:21:24 --> ErrorException: Undefined array key "nama"
+[Method: GET, Route: pengawasan/tambah]
+in APPPATH\Views\pengawasan\add.php on line 90.
+ 1 APPPATH\Views\pengawasan\add.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama"', 'C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php', 90)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengawasan/add', [], true)
+ 5 APPPATH\Controllers\Pengawasan.php(45): view('pengawasan/add', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->tambah()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-21 07:31:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-21 07:39:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-21 07:39:47 --> ErrorException: Undefined array key "nama_aspek"
+[Method: GET, Route: pengawasan/tambah]
+in APPPATH\Views\pengawasan\add.php on line 26.
+ 1 APPPATH\Views\pengawasan\add.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama_aspek"', 'C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php', 26)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengawasan/add', [], true)
+ 5 APPPATH\Controllers\Pengawasan.php(45): view('pengawasan/add', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->tambah()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-21 07:41:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-21 07:41:12 --> ErrorException: Undefined array key "nama_aspek"
+[Method: GET, Route: pengawasan/tambah]
+in APPPATH\Views\pengawasan\add.php on line 26.
+ 1 APPPATH\Views\pengawasan\add.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama_aspek"', 'C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php', 26)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengawasan/add', [], true)
+ 5 APPPATH\Controllers\Pengawasan.php(45): view('pengawasan/add', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->tambah()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-21 07:41:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-21 07:41:13 --> ErrorException: Undefined array key "nama_aspek"
+[Method: GET, Route: pengawasan/tambah]
+in APPPATH\Views\pengawasan\add.php on line 26.
+ 1 APPPATH\Views\pengawasan\add.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama_aspek"', 'C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php', 26)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengawasan/add', [], true)
+ 5 APPPATH\Controllers\Pengawasan.php(45): view('pengawasan/add', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->tambah()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-21 07:42:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-21 07:42:11 --> ErrorException: Undefined array key "sub_aspek"
+[Method: GET, Route: pengawasan/tambah]
+in APPPATH\Views\pengawasan\add.php on line 26.
+ 1 APPPATH\Views\pengawasan\add.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "sub_aspek"', 'C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php', 26)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengawasan/add', [], true)
+ 5 APPPATH\Controllers\Pengawasan.php(45): view('pengawasan/add', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->tambah()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-21 07:43:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-21 07:43:17 --> ErrorException: Undefined array key "nilai_standar"
+[Method: GET, Route: pengawasan/tambah]
+in APPPATH\Views\pengawasan\add.php on line 26.
+ 1 APPPATH\Views\pengawasan\add.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nilai_standar"', 'C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php', 26)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengawasan/add', [], true)
+ 5 APPPATH\Controllers\Pengawasan.php(45): view('pengawasan/add', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->tambah()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-21 07:43:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-21 07:43:18 --> ErrorException: Undefined array key "nilai_standar"
+[Method: GET, Route: pengawasan/tambah]
+in APPPATH\Views\pengawasan\add.php on line 26.
+ 1 APPPATH\Views\pengawasan\add.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nilai_standar"', 'C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php', 26)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengawasan/add', [], true)
+ 5 APPPATH\Controllers\Pengawasan.php(45): view('pengawasan/add', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->tambah()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-21 07:43:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-21 07:43:32 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layouts/template.php"
+[Method: GET, Route: pengawasan/tambah]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/template.php')
+ 2 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('layouts/template', [], true)
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengawasan/add', [], true)
+ 4 APPPATH\Controllers\Pengawasan.php(45): view('pengawasan/add', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->tambah()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-21 07:43:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-21 07:43:33 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layouts/template.php"
+[Method: GET, Route: pengawasan/tambah]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/template.php')
+ 2 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('layouts/template', [], true)
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengawasan/add', [], true)
+ 4 APPPATH\Controllers\Pengawasan.php(45): view('pengawasan/add', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->tambah()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-21 07:44:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-08-21 07:44:09 --> [DEPRECATED] htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\layout\navbar.php on line 38.
+ 1 APPPATH\Views\layout\navbar.php(38): htmlentities(null)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/navbar', [], true)
+ 5 APPPATH\Views\layout\wrapper.php(4): view('layout/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\layout\\wrapper.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('layout/wrapper', [], true)
+ 9 APPPATH\Controllers\Pengawasan.php(33): view('layout/wrapper', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->index()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-21 07:44:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-21 07:44:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-21 07:44:11 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layouts/template.php"
+[Method: GET, Route: pengawasan/tambah]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/template.php')
+ 2 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('layouts/template', [], true)
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengawasan/add', [], true)
+ 4 APPPATH\Controllers\Pengawasan.php(45): view('pengawasan/add', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->tambah()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-21 07:49:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-21 07:49:35 --> ErrorException: Undefined array key "nama_subkategori"
+[Method: GET, Route: pengawasan/tambah]
+in APPPATH\Views\pengawasan\add.php on line 35.
+ 1 APPPATH\Views\pengawasan\add.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama_subkategori"', 'C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php', 35)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengawasan/add', [], true)
+ 5 APPPATH\Controllers\Pengawasan.php(45): view('pengawasan/add', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->tambah()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-21 07:49:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-21 07:49:36 --> ErrorException: Undefined array key "nama_subkategori"
+[Method: GET, Route: pengawasan/tambah]
+in APPPATH\Views\pengawasan\add.php on line 35.
+ 1 APPPATH\Views\pengawasan\add.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama_subkategori"', 'C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php', 35)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengawasan/add', [], true)
+ 5 APPPATH\Controllers\Pengawasan.php(45): view('pengawasan/add', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->tambah()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-21 07:49:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-21 07:52:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-21 07:52:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-21 07:52:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-21 07:55:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-21 07:56:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-21 07:58:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-21 07:58:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-21 08:23:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-21 08:24:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-21 08:24:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-21 08:24:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-21 08:24:27 --> CSRF token verified.
+INFO - 2024-08-21 08:24:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-21 08:24:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-21 08:26:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-21 08:27:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-21 08:28:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-21 08:28:08 --> CSRF token verified.
+INFO - 2024-08-21 08:28:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-21 09:03:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-21 09:03:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-21 09:10:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-21 09:20:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-21 09:20:53 --> ErrorException: Undefined variable $a
+[Method: GET, Route: pengawasan/tambah]
+in APPPATH\Views\pengawasan\add.php on line 59.
+ 1 APPPATH\Views\pengawasan\add.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $a', 'C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengawasan/add', [], true)
+ 5 APPPATH\Controllers\Pengawasan.php(45): view('pengawasan/add', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->tambah()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-21 09:21:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-21 09:21:03 --> ErrorException: Undefined variable $a
+[Method: GET, Route: pengawasan/tambah]
+in APPPATH\Views\pengawasan\add.php on line 59.
+ 1 APPPATH\Views\pengawasan\add.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $a', 'C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengawasan/add', [], true)
+ 5 APPPATH\Controllers\Pengawasan.php(45): view('pengawasan/add', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->tambah()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-21 09:21:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-21 09:21:19 --> ErrorException: Undefined variable $a
+[Method: GET, Route: pengawasan/tambah]
+in APPPATH\Views\pengawasan\add.php on line 59.
+ 1 APPPATH\Views\pengawasan\add.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $a', 'C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengawasan/add', [], true)
+ 5 APPPATH\Controllers\Pengawasan.php(45): view('pengawasan/add', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->tambah()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-21 09:21:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-21 09:21:20 --> ErrorException: Undefined variable $a
+[Method: GET, Route: pengawasan/tambah]
+in APPPATH\Views\pengawasan\add.php on line 59.
+ 1 APPPATH\Views\pengawasan\add.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $a', 'C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengawasan/add', [], true)
+ 5 APPPATH\Controllers\Pengawasan.php(45): view('pengawasan/add', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->tambah()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-21 09:21:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-21 09:21:41 --> ErrorException: Undefined variable $a
+[Method: GET, Route: pengawasan/tambah]
+in APPPATH\Views\pengawasan\add.php on line 59.
+ 1 APPPATH\Views\pengawasan\add.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $a', 'C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengawasan/add', [], true)
+ 5 APPPATH\Controllers\Pengawasan.php(45): view('pengawasan/add', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->tambah()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-21 09:21:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-21 09:21:42 --> ErrorException: Undefined variable $a
+[Method: GET, Route: pengawasan/tambah]
+in APPPATH\Views\pengawasan\add.php on line 59.
+ 1 APPPATH\Views\pengawasan\add.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $a', 'C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php', 59)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengawasan/add', [], true)
+ 5 APPPATH\Controllers\Pengawasan.php(45): view('pengawasan/add', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->tambah()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-21 09:23:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-21 09:23:09 --> ErrorException: Undefined variable $a
+[Method: GET, Route: pengawasan/tambah]
+in APPPATH\Views\pengawasan\add.php on line 61.
+ 1 APPPATH\Views\pengawasan\add.php(61): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $a', 'C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php', 61)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengawasan/add', [], true)
+ 5 APPPATH\Controllers\Pengawasan.php(45): view('pengawasan/add', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->tambah()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-21 09:23:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-21 09:23:27 --> ErrorException: Undefined array key "nilai_standar"
+[Method: GET, Route: pengawasan/tambah]
+in APPPATH\Views\pengawasan\add.php on line 61.
+ 1 APPPATH\Views\pengawasan\add.php(61): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nilai_standar"', 'C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php', 61)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengawasan/add', [], true)
+ 5 APPPATH\Controllers\Pengawasan.php(45): view('pengawasan/add', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->tambah()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-21 09:23:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-21 09:23:28 --> ErrorException: Undefined array key "nilai_standar"
+[Method: GET, Route: pengawasan/tambah]
+in APPPATH\Views\pengawasan\add.php on line 61.
+ 1 APPPATH\Views\pengawasan\add.php(61): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nilai_standar"', 'C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php', 61)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengawasan/add', [], true)
+ 5 APPPATH\Controllers\Pengawasan.php(45): view('pengawasan/add', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->tambah()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-21 09:23:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-21 09:23:40 --> ErrorException: Undefined array key "bobot"
+[Method: GET, Route: pengawasan/tambah]
+in APPPATH\Views\pengawasan\add.php on line 61.
+ 1 APPPATH\Views\pengawasan\add.php(61): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "bobot"', 'C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php', 61)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengawasan/add', [], true)
+ 5 APPPATH\Controllers\Pengawasan.php(45): view('pengawasan/add', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->tambah()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-21 09:23:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-21 09:23:42 --> ErrorException: Undefined array key "bobot"
+[Method: GET, Route: pengawasan/tambah]
+in APPPATH\Views\pengawasan\add.php on line 61.
+ 1 APPPATH\Views\pengawasan\add.php(61): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "bobot"', 'C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php', 61)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\laragon\\www\\evi_v2\\app\\Views\\pengawasan\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pengawasan/add', [], true)
+ 5 APPPATH\Controllers\Pengawasan.php(45): view('pengawasan/add', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pengawasan->tambah()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengawasan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-08-21 09:23:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-21 09:24:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-21 09:24:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-21 09:27:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-21 09:32:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-21 09:38:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-21 09:39:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

@@ -1,0 +1,74 @@
+.pmr-btn {
+    background-color: #3b28cc;
+    /* Ganti dengan warna yang diinginkan */
+    color: white;
+    
+}
+
+.pmr-btn:hover {
+    background-color: #117bcd;
+    color: white;
+    /* Warna saat dihover */
+}
+
+.scd-btn {
+    background-color: #00043a;
+    /* Ganti dengan warna yang diinginkan */
+    color: white;
+    
+}
+
+.scd-btn:hover {
+    background-color: #003459;
+    color: white;
+    /* Warna saat dihover */
+}
+
+.scc-btn {
+    background-color: #00C494;
+    /* Ganti dengan warna yang diinginkan */
+    color: white;
+    
+}
+
+.scc-btn:hover {
+    background-color: #026c52;
+    color: white;
+    /* Warna saat dihover */
+}
+.wrn-btn {
+    background-color: #f6ad10;
+    /* Ganti dengan warna yang diinginkan */
+    color: white;
+    
+}
+
+.wrn-btn:hover {
+    background-color: #fdc500;
+    color: white;
+    /* Warna saat dihover */
+}
+.inf-btn {
+    background-color: #7b2cbf;
+    /* Ganti dengan warna yang diinginkan */
+    color: white;
+    
+}
+
+.inf-btn:hover {
+    background-color: #9d4edd;
+    color: white;
+    /* Warna saat dihover */
+}
+.dgr-btn {
+    background-color: #f72585;
+    /* Ganti dengan warna yang diinginkan */
+    color: white;
+    
+}
+
+.dgr-btn:hover {
+    background-color: #e500a4;
+    color: white;
+    /* Warna saat dihover */
+}
