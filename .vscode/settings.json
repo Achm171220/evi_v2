@@ -1,0 +1,17 @@
+{
+  "[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+  },
+  "editor.defaultFormatter": "bmewburn.vscode-intelephense-client",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "prettier.embeddedLanguageFormatting": "auto",
+  "intelephense.phpdoc.classTemplate": {
+    
+    "summary": "$1",
+    "tags": [
+      "@package ${1:$SYMBOL_NAMESPACE}"
+    ]
+  }
+}
